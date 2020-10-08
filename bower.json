@@ -4,6 +4,7 @@
   "description": "Full featured lightbox gallery. Zero dependencies",
   "main": [
       "dist/js/lightgallery.min.js",
+      "dist/css/lg-fontface.css",
       "dist/css/lightgallery.css",
       "dist/fonts/lg.eot",
       "dist/fonts/lg.svg",
